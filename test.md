@@ -11,10 +11,12 @@ for i in list:
 ```
 
 Code snippet with syntax highlighting:
+
 ```sh
 ls -lrt .
 tar czf something.tar 
 ```
+
 Code block with indentation
 
     for i in list:
